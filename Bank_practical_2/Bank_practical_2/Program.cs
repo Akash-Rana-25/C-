@@ -20,6 +20,9 @@
             customer_accountNo = acc_no;
             customer_name= c_name;
         }
+        /// <summary>
+        /// This method show's the detail of the Customer Account  .
+        /// </summary>
         public void PrintInfo()
         {
             Console.WriteLine("Bank Name:"+bank_name);
