@@ -51,7 +51,7 @@
                         Options.Minimummark => $"\nMinimum mark you get is: {student.CalculateMinimumMark()}",
                         Options.MaximumMark => $"\nMaximum mark you get is: {student.CalculateMaximumMark()}",
                         Options.Garde => $"\nYour grades is: {student.CalculateGrade()}",
-                        Options.Exit => $"\nExiting an application, bye",
+                        Options.Exit => $"\nExiting an application....",
                         _ => "Options between only 0, and 1 to 4 is allowed, you have selected wrong option"
                     }); ;
                 }
