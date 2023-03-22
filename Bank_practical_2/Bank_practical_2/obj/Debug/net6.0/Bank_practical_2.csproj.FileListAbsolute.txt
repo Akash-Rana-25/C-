@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.AssemblyInfo.cs
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\bin\Debug\net6.0\Bank_practical_2.exe
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\bin\Debug\net6.0\Bank_practical_2.deps.json
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\bin\Debug\net6.0\Bank_practical_2.runtimeconfig.json
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\bin\Debug\net6.0\Bank_practical_2.dll
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\bin\Debug\net6.0\Bank_practical_2.pdb
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.dll
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\refint\Bank_practical_2.dll
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.pdb
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\Bank_practical_2.genruntimeconfig.cache
+C:\Users\akash\source\repos\Bank_practical_2\Bank_practical_2\obj\Debug\net6.0\ref\Bank_practical_2.dll

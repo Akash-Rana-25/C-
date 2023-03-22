@@ -4,28 +4,50 @@ using System;
 namespace calculator
 {
     class Program
+
     {
+         static int firstNumber;
+         static int secondNumber;
+        public static void FirstRead()
+        {
+            Console.Write("Enter first number:");
+            firstNumber = Convert.ToInt32(Console.ReadLine());
+
+        }
+        public static void SecoundRead()
+        {
+            Console.Write("Enter second number:");
+            secondNumber = Convert.ToInt32(Console.ReadLine());
+        }
         static void Main(string[] args)
         {
-            string status ;
+
+
+            string status;
             do
             {
                 int res;
-                int firstNumber;
-                int secondNumber;
 
                 try
                 {
-                    Console.Write("Enter first number:");
-                    firstNumber = Convert.ToInt32(Console.ReadLine());
-                    Console.Write("Enter second number:");
-                    secondNumber = Convert.ToInt32(Console.ReadLine());
-
+                    FirstRead();
                 }
+
                 catch (System.FormatException)
                 {
                     Console.WriteLine("Wrong input Numbers Only");
-                    return;
+                    FirstRead();
+
+                }
+                try
+                {
+                    SecoundRead();
+                }
+                catch (System.FormatException)
+
+                {
+                    Console.WriteLine("Wrong input Numbers Only");
+                    SecoundRead();
 
                 }
                 Console.Write("Enter symbol(/,+,-,*):");
@@ -45,7 +67,7 @@ namespace calculator
                         Console.WriteLine($"The multiplication  of the {firstNumber} and {secondNumber} is:" + res);
                         break;
                     case "/":
-                      
+
                         try
                         {
                             res = firstNumber / secondNumber;
