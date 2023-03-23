@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.AssemblyInfo.cs
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\bin\Debug\net6.0\DIP_Practical_7.exe
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\bin\Debug\net6.0\DIP_Practical_7.deps.json
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\bin\Debug\net6.0\DIP_Practical_7.runtimeconfig.json
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\bin\Debug\net6.0\DIP_Practical_7.dll
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\bin\Debug\net6.0\DIP_Practical_7.pdb
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.dll
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\refint\DIP_Practical_7.dll
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.pdb
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\DIP_Practical_7.genruntimeconfig.cache
+C:\Users\akash\source\repos\DIP_Practical_7\DIP_Practical_7\obj\Debug\net6.0\ref\DIP_Practical_7.dll

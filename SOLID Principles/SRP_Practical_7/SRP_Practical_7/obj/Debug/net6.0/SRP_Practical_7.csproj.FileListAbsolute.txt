@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.AssemblyInfo.cs
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\bin\Debug\net6.0\SRP_Practical_7.exe
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\bin\Debug\net6.0\SRP_Practical_7.deps.json
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\bin\Debug\net6.0\SRP_Practical_7.runtimeconfig.json
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\bin\Debug\net6.0\SRP_Practical_7.dll
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\bin\Debug\net6.0\SRP_Practical_7.pdb
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.dll
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\refint\SRP_Practical_7.dll
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.pdb
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\SRP_Practical_7.genruntimeconfig.cache
+C:\Users\akash\source\repos\SRP_Practical_7\SRP_Practical_7\obj\Debug\net6.0\ref\SRP_Practical_7.dll

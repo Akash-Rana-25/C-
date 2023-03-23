@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\bin\Debug\net6.0\OCP_practical_7.exe
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\bin\Debug\net6.0\OCP_practical_7.deps.json
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\bin\Debug\net6.0\OCP_practical_7.runtimeconfig.json
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\bin\Debug\net6.0\OCP_practical_7.dll
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\bin\Debug\net6.0\OCP_practical_7.pdb
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.AssemblyInfo.cs
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.dll
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\refint\OCP_practical_7.dll
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.pdb
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\OCP_practical_7.genruntimeconfig.cache
+C:\Users\akash\source\repos\OCP_practical_7\OCP_practical_7\obj\Debug\net6.0\ref\OCP_practical_7.dll
