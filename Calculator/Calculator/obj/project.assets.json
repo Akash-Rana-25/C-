@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C-sharp\\Calculator_practical_1\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\C-sharp\\Calculator_practical_1\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "C:\\C-sharp\\Calculator_practical_1\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

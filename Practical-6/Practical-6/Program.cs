@@ -17,21 +17,6 @@
     }
     public delegate void Notify();  // delegate
 
-    public class ProcessBusinessLogic
-    {
-        public event Notify ProcessCompleted; // event
-
-        public void StartProcess()
-        {
-            Console.WriteLine("Process Started!");
-            OnProcessCompleted();
-        }
-
-        protected virtual void OnProcessCompleted() 
-        {
-            ProcessCompleted?.Invoke();
-        }
-
-    }
+  
 
 }
