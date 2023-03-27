@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\C-sharp\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\C-sharp\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\C-sharp\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\C-sharp\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akash\\source\\repos\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\C-sharp\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
