@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj": {}
+    "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj": {}
   },
   "projects": {
-    "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj": {
+    "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj",
-        "projectName": "SRP_Practical_7",
-        "projectPath": "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj",
+        "projectUniqueName": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
+        "projectName": "vehicle_management_system",
+        "projectPath": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
         "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-        "outputPath": "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\obj\\",
+        "outputPath": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Kscksi3v6xr/mr42+M2J8aCC6Gs6aOVPE0NeuicULMNIUlmSgfJMoPVCXPUtJFiRfPMt8jaTMUlfjXk7RPb0Q==",
+  "dgSpecHash": "Del8+4KLmyIOuO7NJeZi8cDnGRqs8yU4cAyBYOKHi0ZDtPiml4eLg8ZkKKJPoY+ol+f+WfkKa8bX7mgj5AQ8yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akash\\source\\repos\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj",
+  "projectFilePath": "C:\\C-sharp\\SOLID Principles\\SRP_Practical_7\\SRP_Practical_7\\SRP_Practical_7.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\bin\Debug\net6.0\vehicle_management_system.exe
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\bin\Debug\net6.0\vehicle_management_system.deps.json
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\bin\Debug\net6.0\vehicle_management_system.runtimeconfig.json
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\bin\Debug\net6.0\vehicle_management_system.dll
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\bin\Debug\net6.0\vehicle_management_system.pdb
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.AssemblyInfo.cs
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.dll
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\refint\vehicle_management_system.dll
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.pdb
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\vehicle_management_system.genruntimeconfig.cache
+C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\obj\Debug\net6.0\ref\vehicle_management_system.dll
