@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
+      "projectUniqueName": "C:\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
       "projectName": "vehicle_management_system",
-      "projectPath": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
+      "projectPath": "C:\\vehicle_management_system\\vehicle_management_system\\vehicle_management_system.csproj",
       "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akash\\source\\repos\\vehicle_management_system\\vehicle_management_system\\obj\\",
+      "outputPath": "C:\\vehicle_management_system\\vehicle_management_system\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

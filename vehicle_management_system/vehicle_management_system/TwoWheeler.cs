@@ -8,16 +8,16 @@ namespace vehicle_management_system
 {
     internal class TwoWheeler : Vehicle
     {
-        private readonly int noOfHelmet;
+        private readonly int _noOfHelmet=2;
 
     
         public TwoWheeler(int id,string name ,int seatingCapacity ,int fuelTankSize, int headLightCount ,int tailLightCount ,int indicatorCount , int exhuastCount ,int wheelsCount) : base(id ,name ,seatingCapacity,fuelTankSize,headLightCount,tailLightCount,indicatorCount,exhuastCount,wheelsCount) { 
 
-            noOfHelmet= 2;
         }
 
         public override void Start()
         {
+
             Console.WriteLine("\nStart The Engine");
             Console.WriteLine("Start The Driving");
         }
@@ -30,16 +30,16 @@ namespace vehicle_management_system
         public override void Display()
         {
             
-            Console.WriteLine("\nNo OF Helmet :"+noOfHelmet);
-            Console.WriteLine("id :"+id);
-            Console.WriteLine("Name :" + name);
-            Console.WriteLine("Seating Capacity :" + seatingCapacity);
-            Console.WriteLine("Fuel Tank Size :"+fuelTankSize); 
-            Console.WriteLine("Head Light Counter :"+headLightCount);
-            Console.WriteLine("Tail Light Counter :"+tailLightCount);
-            Console.WriteLine("Indicator Count :"+ indiatorCount);
-            Console.WriteLine("Exhuast Count :"+exhuastCount);
-            Console.WriteLine("No Of Wheels :"+wheelsCount);
+            Console.WriteLine("\nNumber Of Helmet Require : "+_noOfHelmet);
+            Console.WriteLine("id : "+id);
+            Console.WriteLine("Name : " + name);
+            Console.WriteLine("Seating Capacity : " + seatingCapacity);
+            Console.WriteLine("Fuel Tank Size : "+fuelTankSize+" Liter"); 
+            Console.WriteLine("Head Light Counter : "+headLightCount);
+            Console.WriteLine("Tail Light Counter : "+tailLightCount);
+            Console.WriteLine("Indicator Count : "+ indiatorCount);
+            Console.WriteLine("Exhuast Count : "+exhuastCount);
+            Console.WriteLine("No Of Wheels : "+wheelsCount);
         }
 
     }

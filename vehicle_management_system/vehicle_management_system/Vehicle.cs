@@ -14,16 +14,13 @@
             this.exhuastCount = exhuastCount;
             this.wheelsCount = wheelsCount;
         }
+
         public abstract void Start();
         public abstract void Stop();
 
         public abstract void Display();
 
-        public enum VehicleType
-        {
-            TwoVehicles = 1,
-            FourVehicles = 2
-        }
+       
 
         protected readonly int id;
         protected readonly string? name;

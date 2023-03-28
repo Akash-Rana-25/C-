@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = vehicle_management_system
-build_property.ProjectDir = C:\Users\akash\source\repos\vehicle_management_system\vehicle_management_system\
+build_property.ProjectDir = C:\vehicle_management_system\vehicle_management_system\
